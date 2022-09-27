@@ -1,7 +1,7 @@
 <script>
   import "../app.css"
   import { NavMenu } from 'twelveui'
-  import navItems from '../data/navmenu.json'  
+  import navItems from '../data/navmenu.json'
 </script>
 
 <header class="mx-4 md:mx-8 lg:mx-24 xl:mx-40 flex justify-between h-14">
